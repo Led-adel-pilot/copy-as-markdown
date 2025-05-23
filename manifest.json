@@ -14,7 +14,8 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_title": "Copy as Markdown"
+    "default_title": "Copy as Markdown",
+    "default_popup": "popup.html"
   },
   "content_scripts": [
     {
